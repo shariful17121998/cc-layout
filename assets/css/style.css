@@ -1,0 +1,120 @@
+/* header part start */
+.header{
+    width: 1900px;
+    height: 120px;
+    background: red;
+    
+}
+
+.logo{
+    width: 475px;
+    height: 120px;
+    background: rgb(238, 91, 7); 
+    float: left; 
+}
+.banner{
+    width: 1425px;
+    height: 120px;
+    background: rgb(6, 58, 230); 
+    float: left;
+}
+.banner-1{
+    width: 1425px;
+    height: 40px;
+    background: rgb(165, 169, 180);  
+}
+.banner-2{
+    width: 1425px;
+    height: 80px;
+    background: rgba(70, 243, 2, 0.247); 
+}
+.sub_banner-1{
+    width: 1000px;
+    height: 40px;
+    background: rgb(160, 81, 233);
+    float: left; 
+}
+.sub_banner-2{
+    width: 425px;
+    height: 40px;
+    background: rgb(228, 79, 220); 
+    float: left;
+}
+
+/* header part start */
+
+
+
+/* navber start  */
+.navber{
+    width: 1900px;
+    height: 80px;
+    background: rgba(240, 171, 23, 0.849);
+}
+/* navber start  */
+
+
+/* body part start */
+.main-body-1{
+    width: 1900px;
+    height: 500px;
+    background: red;
+}
+.body-1{
+    width: 475px;
+    height: 500px;
+    background: rgb(124, 12, 235);
+    float: left;
+}
+.body-2{
+    width: 1425px;
+    height: 500px;
+    background: rgb(6, 193, 240);
+    float: left;
+}
+
+/* body part start */
+
+/* body part start */
+
+.main-body-2{
+    width: 1900px;
+    height: 200px;
+    background: rgb(161, 115, 115); 
+    float: left;
+}
+.body-11{
+    width: 475px;
+    height: 200px;
+    background: rgb(46, 92, 76); 
+    float: left;
+}
+.body-22{
+    width: 475px;
+    height: 200px;
+    background: rgb(61, 17, 63); 
+    float: left;
+}
+.body-33{
+    width: 475px;
+    height: 200px;
+    background: rgb(190, 219, 85); 
+    float: left;
+}
+.body-44{
+    width: 475px;
+    height: 200px;
+    background: rgb(83, 100, 86); 
+    float: left;
+}
+/* body part start */
+
+/* footer start  */
+.last{
+    background-color: rgb(15, 13, 13);
+    width: 1900px;
+   
+
+}
+
+/* footer start  */
